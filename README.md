@@ -1,4 +1,4 @@
-# agent-forensics
+# experiment-hidden-agenda
 An experiment to observe a backdoored coding agent's behaviour in a simulated environment.
 
 Agent: qwen3-max-preview
